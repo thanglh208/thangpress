@@ -5816,15 +5816,3 @@ button.close {
 
 button {
   color: red; }
-
-.menu {
-  color: black; }
-
-.menu-item {
-  display: inline-block; }
-
-.site-header {
-  display: inline-flex; }
-
-.skip-link {
-  display: none; }
